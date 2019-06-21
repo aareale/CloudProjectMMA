@@ -7,8 +7,14 @@
     <title>Homepage</title>
 </head>
 <body>
-        <form action="" method="POST" >
-            
-        </form>
+    <form name="invio_file"
+        action="file.php"
+        method="POST"
+        enctype="multipart/form-data">
+        Utente: <input type="email" name="email" />
+        Password <input type="password" name="password"/>
+        <input type="submit" name="Invio" />
+        <a href="url">Hai dimenticato la password?</a>
+</form>
 </body>
 </html>
