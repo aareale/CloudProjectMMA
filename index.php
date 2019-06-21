@@ -14,7 +14,9 @@
         Utente: <input type="email" name="email" />
         Password <input type="password" name="password"/>
         <input type="submit" name="Invio" />
-        <a href="url">Hai dimenticato la password?</a>
+        <a href="forgot.php">Hai dimenticato la password?</a>
+        <a href="register.php">Non sei ancora registrato? Clicca qui</a>
+
 </form>
 </body>
 </html>
