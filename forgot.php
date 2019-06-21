@@ -11,7 +11,7 @@
             action="*inviata*"
             method="POST"
             enctype="multipart/form-data">
-            email: <input type="email" name="email" />
+            Email: <input type="email" name="email" />
             <input type="submit" name="Invio" />
         </form>
     
