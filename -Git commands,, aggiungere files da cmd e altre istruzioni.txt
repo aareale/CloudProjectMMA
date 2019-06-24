@@ -1,3 +1,6 @@
+//creare un repository locale per fare la pull
+git init
+
 per aggiornare il proprio repository locale ad un repository online/remoto:
 - git pull https://github.com/adnauseam92/CloudProjectMMA.git
 
